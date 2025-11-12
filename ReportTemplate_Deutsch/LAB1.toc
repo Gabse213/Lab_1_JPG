@@ -1,0 +1,8 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}Einführung und Aufgaben}{1}{section.1}%
+\contentsline {section}{\numberline {2}Vorbereitende Arbeiten}{2}{section.2}%
+\contentsline {section}{\numberline {3}Experiment und Methodik}{3}{section.3}%
+\contentsline {section}{\numberline {4}Ergebnisse und Interpretation}{5}{section.4}%
+\contentsline {section}{Literaturverzeichnis}{III}{figure.caption.5}%
+\contentsline {section}{Abbildungsverzeichnis}{IV}{section*.6}%
+\contentsline {section}{Tabellenverzeichnis}{V}{section*.7}%
